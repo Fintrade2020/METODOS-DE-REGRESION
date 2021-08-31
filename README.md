@@ -3,7 +3,7 @@
 En este repositorio encontrará códigos básicos en R, los cuales le permitirán realizar diferentes análisis de regresión.
 Códigos básicos en R para diferentes análisis de regresión.
 
-## Archivo Happy
+### Archivo Happy
 
 En el archivo Happy se desarrolla una rutina de regresión a partir de una base de datos llamada "happy" que podemos encontrar en la libreria "faraway".
 
